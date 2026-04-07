@@ -15,7 +15,7 @@ s=str1.split("e")
 print(s)
 
 # join Function
-tup=("My","name","is","Nitesh","Gupta")
+tup=("My","name","is","gopal","dey")
 str2="#".join(tup)
 print(str2)
 
